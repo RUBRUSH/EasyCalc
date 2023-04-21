@@ -1,0 +1,1 @@
+from .easycalc import easycalc
